@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.jdbc.bug
+---
+testFramework: junit
+sourceLanguage: java
